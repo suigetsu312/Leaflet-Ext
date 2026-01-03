@@ -1,0 +1,10 @@
+{
+  "name": "maplib-prototype",
+  "private": true,
+  "packageManager": "pnpm@9",
+  "scripts": {
+    "dev": "pnpm -C apps/demo-react dev",
+    "build": "pnpm -r build",
+    "typecheck": "pnpm -r typecheck"
+  }
+}
