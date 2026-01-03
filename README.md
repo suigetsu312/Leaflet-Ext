@@ -32,7 +32,7 @@ This project experiments with:
 - No per-frame rendering — updates are event-driven
 - UI updates are **patched**, not fully re-rendered (important for performance)
 
-![demo]("assets/demo.png")
+![demo](assets/demo.png)
 
 ---
 
